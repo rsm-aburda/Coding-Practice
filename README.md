@@ -1,6 +1,6 @@
 # 🧪 Code Playground Repository
 
-Welcome to my **Code Playground**! This is where I experiment with different coding concepts, languages, and frameworks. It's a safe space to explore, break, fix, and learn. 🚀
+Welcome to my **Code Playground**! This is where I experiment with different coding concepts, languages, and frameworks. Explore, Break, Fix, and Learn. 🚀
 
 ---
 
