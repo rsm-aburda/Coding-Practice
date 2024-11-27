@@ -9,7 +9,8 @@ Welcome to my **Code Playground**! This is where I experiment with different cod
 Inspired by Chris Williams' words:  
 > "The magic you are looking for is in the work you are avoiding." ✨  
 
-This repo is about diving into challenges head-on, embracing the struggle, and finding that "magic" on the other side of effort.
+This repo is about tackling challenges directly, pushing through obstacles, and uncovering growth in the process.
+
 
 ---
 
@@ -25,7 +26,6 @@ Here, I’ll practice:
 
 ## 🎯 Goals and Reminders
 
-This is a **judgment-free zone** for learning and growing.  
 Here’s how I plan to approach this journey:
 - **Start small, scale fast.** 🏃‍♂️
 - Focus on **the fundamentals** while building exciting projects! 💻
